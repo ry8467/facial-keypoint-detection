@@ -1,6 +1,6 @@
 # Facial-keypoint-detection
 This project detects facial keypoints eyes, nose, and mouth from face images using a Convolutional Neural Network (CNN).
-##Plan
+# Plan
 Still work in progress
 To improve the loss value
 ## Dataset
